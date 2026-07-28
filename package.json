@@ -22,7 +22,6 @@
     "@hookform/resolvers": "^3.9.0",
     "zod": "^3.23.8",
     "date-fns": "^4.0.0",
-    "date-fns/locale": "latest",
     "recharts": "^2.12.7"
   },
   "devDependencies": {
